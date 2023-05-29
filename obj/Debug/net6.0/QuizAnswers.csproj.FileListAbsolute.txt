@@ -1,0 +1,15 @@
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.csproj.AssemblyReference.cache
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.AssemblyInfoInputs.cache
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.AssemblyInfo.cs
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.csproj.CoreCompileInputs.cache
+C:\Project\QuizAnswers\bin\Debug\net6.0\QuizAnswers.exe
+C:\Project\QuizAnswers\bin\Debug\net6.0\QuizAnswers.deps.json
+C:\Project\QuizAnswers\bin\Debug\net6.0\QuizAnswers.runtimeconfig.json
+C:\Project\QuizAnswers\bin\Debug\net6.0\QuizAnswers.dll
+C:\Project\QuizAnswers\bin\Debug\net6.0\QuizAnswers.pdb
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.dll
+C:\Project\QuizAnswers\obj\Debug\net6.0\refint\QuizAnswers.dll
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.pdb
+C:\Project\QuizAnswers\obj\Debug\net6.0\QuizAnswers.genruntimeconfig.cache
+C:\Project\QuizAnswers\obj\Debug\net6.0\ref\QuizAnswers.dll
